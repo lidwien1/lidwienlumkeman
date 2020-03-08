@@ -64,6 +64,13 @@ article{
     height: 340px;
     margin-left: 100px;
     margin-bottom: 20px;
+    transition-duration: 3s;
+
+}
+
+.mooi:hover{
+    transition: 2s;
+    border-radius: 90%;
 }
 
 .home{
@@ -103,7 +110,6 @@ h2{
     transition: 1s;
     width: 520px;
     height: 320px;
-    transition-duration: 2s;
 }
 
 section{
